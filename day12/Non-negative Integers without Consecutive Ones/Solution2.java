@@ -1,5 +1,5 @@
 
-//-----------OPTMIZED SOLUITON
+//-----------OPTMIZED SOLUITON (Getting TLE)
 
 class Solution2 {
     public int findIntegers(int n) {

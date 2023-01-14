@@ -1,4 +1,5 @@
-//NAIVE SOLUTION
+
+//-------NAIVE SOLUTION (Getting TLE)
 
 class Solution {
     public int findIntegers(int n) {
